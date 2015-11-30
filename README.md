@@ -1,7 +1,7 @@
 ### Triangle view  ###
 A Triangle View with 4 directions and an editable color 
-![device-2015-12-01-003116.png](https://bitbucket.org/repo/9qGRRG/images/3366811477-device-2015-12-01-003116.png)
 
+![device-2015-12-01-003116.png](https://bitbucket.org/repo/9qGRRG/images/1802270595-device-2015-12-01-003116.png)
 ### How do I get set up? ###
 
 You Can simply import the Triangle View module.
