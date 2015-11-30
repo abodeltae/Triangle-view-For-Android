@@ -1,6 +1,6 @@
-
 ### Triangle view  ###
 A Triangle View with 4 directions and an editable color 
+![device-2015-12-01-003116.png](https://bitbucket.org/repo/9qGRRG/images/3366811477-device-2015-12-01-003116.png)
 
 ### How do I get set up? ###
 
@@ -57,4 +57,4 @@ TriangleView triangleView =(TriangleView)findViewById(R.id.triangleView);
 
 
 ### Credits  ###
-This was inspired from Ahmed Ghoneim's answer on [This Link](http://stackoverflow.com/a/18191340/4649740) 
+This was inspired from Ahmed Ghoneim's answer on [This Link](http://stackoverflow.com/a/18191340/4649740)
