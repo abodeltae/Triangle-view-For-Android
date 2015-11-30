@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/triangleview/triangleview.iml" filepath="$PROJECT_DIR$/triangleview/triangleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangleViewLibrary/triangleViewLibrary.iml" filepath="$PROJECT_DIR$/triangleViewLibrary/triangleViewLibrary.iml" />
     </modules>
   </component>
 </project>

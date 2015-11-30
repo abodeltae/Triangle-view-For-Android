@@ -1,1 +1,1 @@
-include ':app', ':triangleview'
+include ':app', ':triangleViewLibrary'
