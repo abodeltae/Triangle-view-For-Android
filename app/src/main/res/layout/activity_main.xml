@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <com.abodeltae.triangleview.TriangleView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:mDirection="North"
+        app:mColor="@color/colorAccent"
+        android:layout_margin="10dp"
+        />
+    <com.abodeltae.triangleview.TriangleView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:mDirection="North"
+        app:mColor="@color/colorAccent"
+        android:id="@+id/triangleView"
+        android:layout_margin="10dp"
+        />
+    <com.abodeltae.triangleview.TriangleView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:mDirection="West"
+        app:mColor="@color/colorPrimary"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        />
+    <com.abodeltae.triangleview.TriangleView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:mDirection="South"
+        app:mColor="#987654"
+        android:layout_margin="10dp"
+        />
+</LinearLayout>
