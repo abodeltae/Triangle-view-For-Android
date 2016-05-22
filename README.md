@@ -11,8 +11,8 @@ or Copy The TriangleView.java and Attrs.xml to your project
 ### How to use ? ###
 Via XML 
 
-```
-#!XML
+```xml
+
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -36,8 +36,8 @@ Via XML
 ```
 Proprties With XML : 
 
-```
-#!xml
+```xml
+
 
 app:mDirection="North|South|East|West"
 app:mColor="@color/myColor"
@@ -45,8 +45,7 @@ app:mColor="@color/myColor"
 
 Properties with Code
 
-```
-#!JAVA
+```java
 
 TriangleView triangleView =(TriangleView)findViewById(R.id.triangleView);
         triangleView.setDirection(TriangleView.Direction.EAST);
